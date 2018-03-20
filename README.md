@@ -15,7 +15,7 @@ my disappointment) that they had, a lot of people
 had, 
 
 ### Design:
-The program was writtent in c++ because I was most
+The program was writtent in c because I was most
 familiar with it at the time. I would create a simple 
 interface that would prompt the user for a list of
 words or short phrases, then create a 5x5 grid of 
