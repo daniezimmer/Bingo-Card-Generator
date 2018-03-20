@@ -20,6 +20,13 @@ familiar with it at the time. I would create a simple
 interface that would prompt the user for a list of
 words or short phrases, then create a 5x5 grid of 
 rectangles and populate each cell, except the center
-space with the list of words. I figured making sure 
-everyword would be spaced out, centered and wrapped 
-properly would be the hard part.
+space with the list of words. The user could then
+choose between exporting as a pdf or png.
+There would also be an option to print a numbered 
+list of the words so the user could cross off values
+that were already used. I figured making sure everyword
+would be spaced out, centered and wrapped properly 
+would be the hard part especially when createing the 
+pdf but when push came to shove and I envitabllly got 
+fed up with pdf I figured I could just export
+a pdf with the photo on it. 
